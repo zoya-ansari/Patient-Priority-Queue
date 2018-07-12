@@ -400,7 +400,8 @@ public class PatientUI  {
 		button.setBounds(6, 6, 120, 59);
 		searchPanel.add(button);
 		
-		
+		//Date 
+
 		JDateChooser dateChooser_1 = new JDateChooser();
 		dateChooser_1.setBounds(503, 105, 200, 28);
 		searchPanel.add(dateChooser_1);
